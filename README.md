@@ -1,11 +1,11 @@
-About djangorestframework-jsonapi
-=================================
+About djangorestframework-jsonapi-feedstock
+===========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/djangorestframework-jsonapi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/django-json-api/django-rest-framework-json-api
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/djangorestframework-jsonapi-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Django REST framework API adapter for the JSON:API spec.
 
