@@ -1,5 +1,5 @@
 {% set name = "djangorestframework-jsonapi" %}
-{% set version = "6.1.0" %}
+{% set version = "7.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/djangorestframework-jsonapi-{{ version }}.tar.gz
-  sha256: 237a6ed3780f0b6571c838c33fde57286152166213ad2986cb1d0f45cff45425
+  sha256: 0395cc51cb80732a2da5de72272e147c9b491764a23bca97d16d183ce4406562
 
 build:
   noarch: python
